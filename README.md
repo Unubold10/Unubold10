@@ -14,8 +14,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 
-🎓 I'm a final-year **Computer Science and Electronics** student at the **University of Bristol**.  
-💡 My main interests lie in **Machine Learning**, **Cybersecurity**, and **Intelligent Systems** to find ways to make technology smarter *and* safer.  
+🎓 I'm a final year **Computer Science and Electronics** student at the **University of Bristol**.  
+💡 My main interests are in **Machine Learning**, **Cybersecurity**, and **Intelligent Systems** to find ways to make technology smarter *and* safer.  
 🌍 Originally from **Mongolia**, now based in **Bristol, UK**, I enjoy building projects that connect algorithms, security, and real world systems.  
 🧠 Always learning, always experimenting — from low-level C work to cloud-based ML solutions.
 
