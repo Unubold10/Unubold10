@@ -59,5 +59,4 @@
 
 ---
 
-💬 *My academic skills I have acquired lets me bridge between hardware, software, and security — building reliable, intelligent, and secure systems.*
 
