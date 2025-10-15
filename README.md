@@ -25,17 +25,6 @@
 
 ---
 
-### ⚙️ Electronics, Systems & Hardware
-![VHDL](https://img.shields.io/badge/VHDL-512BD4?logoColor=white)
-![Verilog](https://img.shields.io/badge/Verilog-512BD4?logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
-![Quartus](https://img.shields.io/badge/Quartus-0078D4?logo=intel&logoColor=white)
-
-🔌 Computer Architecture · Embedded Systems · Digital Logic Design · FPGA Programming  
-⚡ Circuit Simulation · Electronic Systems Analysis · Control & Signal Processing  
-
----
-
 ### 🤖 Machine Learning & Data Science
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-ff6600)
 ![Data Science](https://img.shields.io/badge/Data%20Science-228B22)
@@ -59,4 +48,14 @@
 
 ---
 
+### ⚙️ Electronics, Systems & Hardware
+![VHDL](https://img.shields.io/badge/VHDL-512BD4?logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-512BD4?logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?logo=mathworks&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-0078D4?logo=intel&logoColor=white)
+
+🔌 Computer Architecture · Embedded Systems · Digital Logic Design · FPGA Programming  
+⚡ Circuit Simulation · Electronic Systems Analysis · Control & Signal Processing  
+
+---
 
